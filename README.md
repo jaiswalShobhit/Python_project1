@@ -1,3 +1,3 @@
 # Python_project1
 
-This is a Exploratory data analysis project using pythin libraries to analyze data
+"This is an exploratory data analysis project using Python libraries to analyze data."
